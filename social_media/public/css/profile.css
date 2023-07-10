@@ -1,0 +1,31 @@
+.profilephotoinpage {
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	position: relative;
+	bottom: 50px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	z-index: 1;
+	border: 2px solid #29D6D5;
+}
+
+.profilephotoinpage:hover {
+	opacity: 0.85;
+	cursor: pointer;
+}
+
+.coverphotoinpage {
+	border: 2px solid #29D6D5;
+	width: 272px;
+	height: 130px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.coverphotoinpage:hover {
+	opacity: 0.85;
+	cursor: pointer;
+}
