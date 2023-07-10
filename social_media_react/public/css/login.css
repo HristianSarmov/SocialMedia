@@ -1,0 +1,48 @@
+form {
+	text-align: center;
+}
+
+input[type=email], input[type=text], input[type=password], input[type=date] {
+  padding: 5px;
+  margin: 0px 3.5px 7px 0px;
+}
+
+input[type=email]:focus, input[type=text]:focus, input[type=password]:focus, input[type=date]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+hr {
+  margin-bottom: 25px;
+  color: #000000;
+  width: 25%;
+}
+
+a {
+  color: dodgerblue;
+}
+
+.email {
+	width: 22%;
+}
+
+.registerbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 23%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity:1;
+}
+
+.password {
+	width: 22%;
+}
+.error {
+	color: #FF0000;
+}
