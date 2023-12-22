@@ -7,8 +7,8 @@ people around the world in a simple social media setting.
 
 I started off by learning from all available to me resources anything I could about the basics of web development 
 that being HTML, CSS, Javascript and Php. In the first iteration of the project I was using the Laravel templating engine: 
-Blade combined with Bootstrap for my frontend purposes. I tried, tested, implemented and learned a lot about many web 
-consepts, those being sessions, cookies, storages and more. One of the biggest leaps in difficulty for me in this project
+Blade combined with Bootstrap for my front-end purposes. I tried, tested, implemented and learned a lot about many web 
+concepts, those being sessions, cookies, storages and more. One of the biggest leaps in difficulty for me in this project
 were the SQL queries. 
 
 When I started this project I was going to do it without any frameworks, but the scale became too large and putting things 
