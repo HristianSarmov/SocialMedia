@@ -33,3 +33,7 @@ This project taught me a lot about file handling, web development and efficiency
  - MariaDB - 10.3.27
  - Laravel - 8.54
  - VSCode
+
+## Contact me:
+
+https://linktr.ee/hristian_sarmov
