@@ -30,3 +30,7 @@ and combining them with a powerful back end framework like Laravel made my codeb
  - MariaDB - 10.3.27
  - Laravel - 8.54
  - VSCode
+
+## Contact me:
+
+https://linktr.ee/hristian_sarmov
